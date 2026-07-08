@@ -126,5 +126,3 @@ The California Housing dataset contains information about housing districts in C
 ## 🏁 Conclusion
 
 This project demonstrates how machine learning can be used to predict house prices using multiple housing-related features. From data exploration to model evaluation and prediction, it provides a complete understanding of building a regression model for real-world price prediction problems.
-
-
